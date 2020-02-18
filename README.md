@@ -5,7 +5,7 @@
 
     .root
     ├── build                   # 
-    |   └── members.yml
+    |   ├── footer.html
     |   └── members.yml
     ├── docs                    # 
     ├── src                     # 
